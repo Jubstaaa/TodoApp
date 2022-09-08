@@ -1,6 +1,6 @@
 # TodoApp
 
-Bu repo JavaScript kursumda hazırlamış olduğum to do uygulamasıdır.
+This repo is the todo application I prepared in my JavaScript course.
 
 ## Live Preview
 
